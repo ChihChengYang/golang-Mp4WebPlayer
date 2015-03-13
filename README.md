@@ -1,7 +1,7 @@
-goMp4WebPlayer
+golang-Mp4WebPlayer
 ================
 
-A Go program for Mp4 Player on web
+A golang program for Mp4 Player on web
 
 
 Usage
